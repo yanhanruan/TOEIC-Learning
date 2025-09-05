@@ -636,3 +636,9 @@ phoney   假的
 crass 粗鲁的
 
 commercialism 商业主义、消费主义
+
+
+
+
+
+choir 唱诗班
