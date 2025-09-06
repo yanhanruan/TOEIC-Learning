@@ -97,8 +97,6 @@ pronouns
 
 
 
-###### ChatGPT said:
-
 verbal：
 
 **1. 词义解释**
@@ -642,3 +640,383 @@ commercialism 商业主义、消费主义
 
 
 choir 唱诗班
+
+
+
+hosiery /ˈhoʊʒəri/
+
+- 指袜类制品的总称，尤其是 **丝袜、长筒袜、连裤袜、短袜** 等。
+- 在商业/服装领域中，常用于指“袜子制品类”这个品类，而不是某一双具体的袜子。
+
+例句：
+
+- This store specializes in women's hosiery.
+   （这家店专卖女士袜类制品。）
+- The hosiery industry has grown rapidly with the rise of online shopping.
+   （随着网购的兴起，袜类产业迅速发展。）
+
+**socks**：泛指“袜子”，通常是短袜或一般的袜子。
+
+**stockings**：长筒袜，通常是女性穿的。
+
+**tights**：连裤袜（英式用法，美国英语中更常用“pantyhose”）。
+
+**hosiery**：一个集合名词，涵盖上述所有类别，更偏向行业/品类用语。
+
+
+
+treadmill 跑步机
+
+pitching machine 投球机
+
+plumber  /ˈplʌmər/ 水管工
+
+
+
+**ransom** 
+
+- **(n.)**：赎金，赎身费
+  - The kidnappers demanded a huge ransom.
+     （绑匪要求一大笔赎金。）
+  - He was released without paying any ransom.
+     （他在没付赎金的情况下被释放了。）
+- **(v.)**：赎回，以赎金赎回
+  - The family ransomed the prisoner for $1 million.
+     （那家人花100万美元赎回了囚犯。）
+  - The painting was ransomed from the thieves.
+     （那幅画从盗贼手里被赎回。）
+
+
+
+**ransomware**（n. 勒索软件）
+
+**ransom vs. extortion**
+
+- ransom：强调“赎金”，通常是绑架或劫持后要求的赎金。
+- extortion：勒索、敲诈，不一定是绑架，可以是各种威胁手段。
+- 例：
+  - They asked for a ransom after the kidnapping.
+     （绑架后他们要求赎金。）
+  - He was arrested for extortion.
+     （他因勒索被捕。）
+
+**ransom vs. redemption**
+
+- ransom：支付赎金，强调钱或物的交换。
+- redemption：赎回/拯救，可以是宗教或抽象意义（救赎）。
+- 例：
+  - They ransomed the hostages.（他们用赎金赎回人质。）
+  - His redemption came through charity.（他的救赎来自慈善。）
+
+- **nanny vs. babysitter**
+  - nanny：长期照顾孩子，可能住在雇主家里，职责更全面（饮食、教育、日常起居）。
+  - babysitter：临时照看孩子（通常按小时收费），更像短时看护。
+  - 例：
+    - We need a nanny because we both work full-time.
+       （我们需要一个保姆，因为我们都全职工作。）
+    - Can you find a babysitter for tonight?
+       （今晚能找个临时照看孩子的人吗？）
+- **nanny vs. governess**
+  - nanny：主要负责照顾生活和安全。
+  - governess：传统意义上是受过教育的家庭女教师，负责孩子的学习和礼仪。
+  - 例：
+    - The nanny puts the children to bed.（保姆哄孩子睡觉。）
+    - The governess teaches them French.（女家庭教师教他们法语。）
+
+
+
+
+
+acoustics 声学
+
+| 词汇      | 强调点                 | 用法场景               | 示例                                  |
+| --------- | ---------------------- | ---------------------- | ------------------------------------- |
+| acoustics | 声音传播、空间影响     | 物理声学、建筑、音乐厅 | The acoustics of the hall are great.  |
+| resonance | 声音共鸣、延长或增强   | 乐器、声音效果         | The piano’s resonance fills the room. |
+| timbre    | 音色特质、声音“颜色”   | 乐器、歌声             | His voice has a unique timbre.        |
+| pitch     | 音高                   | 音乐、声乐             | She hit the pitch perfectly.          |
+| tone      | 声音整体感觉/音调/语气 | 音乐、语言、写作       | Adjust the tone of your guitar.       |
+
+echo 回声
+
+rig
+
+**1. 词义解释**
+
+- (n.)
+  1. 装置，设备，装备（尤其指大型或复杂机械）
+     - The oil rig is operating offshore.
+        （那座海上钻油平台在运作。）
+     - A sound rig was set up for the concert.
+        （音乐会搭建了音响设备。）
+  2. 卡车 / 大型车辆（尤其在北美口语）
+     - He drives a big rig across the country.
+        （他开着大卡车横穿全国。）
+  3. （帆船等的）桅杆与索具装置
+     - The ship’s rig was damaged in the storm.
+        （船的桅杆和索具在风暴中受损。）
+- (v.)
+  1. 装配，装备
+     - The stage was rigged with lights and speakers.
+        （舞台装上了灯光和音响。）
+  2. 搭建，安装临时设备
+     - They rigged a tent near the river.
+        （他们在河边搭起帐篷。）
+  3. （非正式/贬义）操纵，作弊
+     - The election was rigged.
+        （选举被操纵了。）
+
+------
+
+**2. 词源解析**
+
+- 来自古英语 **rigg**（排列、搭建），原意是“支架、桅杆”，后来扩展到机械设备和车辆。
+
+------
+
+**3. 常见衍生词**
+
+- **rigging (n.)**：索具系统 / 装备系统 / 船的索具
+- **offshore rig (n.)**：海上钻油平台
+- **well-rigged (adj.)**：装备良好的 / 安装完善的
+
+------
+
+**4. 常用短语**
+
+- **oil rig**：石油钻井平台
+- **rig up sth**：临时搭建/安装某物
+  - We rigged up a temporary shelter.
+     （我们搭起了临时避难所。）
+- **rig the game/election**：操纵比赛或选举
+
+------
+
+**5. 近义词对比**
+
+- **rig vs. equipment**
+  - rig：侧重大型、复杂或特定用途的设备，口语和专业用法都多
+  - equipment：普通设备、器材，更通用
+  - 例：
+    - The audio rig costs thousands of dollars.（音响设备很贵。）
+    - We need the right climbing equipment.（我们需要合适的攀岩装备。）
+- **rig vs. set up**
+  - rig：更强调**搭建复杂装置或临时结构**
+  - set up：普通“搭建、安装”
+  - 例：
+    - They rigged lights for the show.（为演出安装灯光）
+    - We set up the chairs for the meeting.（为会议摆放椅子）
+
+
+
+affable 和蔼可亲的
+
+bellhop 行李员
+
+podcast 播客
+
+leather chaps 皮质护腿
+
+saddle 鞍
+
+bullwhip 鞭
+
+| 词            | 核心含义                       | 侧重点 / 意图                                                | 常搭配对象（典型短语）                           | 语气 / 感情色彩         | 是否可互换（简评）                                           |
+| ------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ | ----------------------- | ------------------------------------------------------------ |
+| **devise**    | 想出、策划、设计（方案/方法）  | 强调经过思考、策划出解决办法或策略；有机智/策略感            | devise a **plan/strategy/method/system**         | 正式、书面；中性        | 与 **design** 可部分重叠（对“计划/策略”），但 **devise** 更侧重“构思/策划”；不能替代表示“画设计图/界面”的场合。 |
+| **design**    | 设计（结构、外形、功能、布局） | 强调构造、蓝图、功能与外观，常含具体产出（图纸、界面、产品） | design a **product/interface/architecture/plan** | 中性，技术/创意场景常用 | 与 **devise** 有交集（design a plan 可用），但 **design** 更偏“structural/visual/engineering”。 |
+| **invent**    | 发明、创造（首创）             | 强调创造出前所未有的东西或方法                               | invent a **device/process/technique**            | 强烈的创新含义          | 不能与 devise/design 随意互换（invent 含“前所未有”）         |
+| **plan**      | 规划、安排                     | 强调步骤、时间、资源安排与实施细节                           | plan a **project/meeting/schedule**              | 日常/正式均可           | 与 devise 接近但偏实施；devise 更“想出方案”，plan 更“安排执行” |
+| **contrive**  | 设计、策划（常含牵强或人为）   | 强调巧妙但可能不自然或做作；有时含贬义                       | contrive an **excuse/plot/solution**             | 书面，常带负面或造作感  | 可在“策划”意义上替代 devise，但语气不同（contrive 常作贬义） |
+| **create**    | 创造、产生                     | 强调“产生/做出”结果，泛指从无到有                            | create **art/content/product**                   | 中性/偏通用             | 比 devise 范围更广，不专指“策划/策略”                        |
+| **formulate** | 陈述/制定（策略、方程、理论）  | 强调把想法形式化、用精确语言表达或制度化                     | formulate a **policy/hypothesis/plan**           | 正式、学术/政策用语     | 与 devise 有交集（两者都偏正式），但 formulate 更偏“表述/定型” |
+
+选词速查（三步法）
+
+1. 这是要发明前所未有的东西吗？ → 用 **invent**。
+2. 是要写蓝图/界面**/**产品结构吗？ → 用 **design**（更偏工程/视觉）。
+3. 是想出一个解决方案/策略/方法（强调构思）吗？ → 用 **devise**；如果还要把方案写成步骤去执行，常搭配 **plan**。
+
+
+
+
+
+
+
+**a batch of ...** = 一批 / 一组 / 一炉 / 一次生产出来的若干个
+
+- 强调 **同一时间、同一过程产生的数量**。
+- 常用于食物、生产、邮件、任务、用户等。
+
+**例句**：
+
+- She baked **a batch of cookies** this morning.
+   （她今天早上烤了一炉饼干。）
+- The factory produced **a batch of smartphones** last week.
+   （工厂上周生产了一批智能手机。）
+- We received **a batch of new orders** today.
+   （我们今天收到了一批新订单。）
+
+**口语/日常**：常见于烹饪、日常事务（cookies, bread, emails）。
+
+**商业/生产**：常见于工厂、订单、制造业。
+
+**技术/计算机**：批处理、成批操作。
+
+
+
+heimlich maneuver 海姆立克急救法
+
+**maneuver (n.)**
+
+1. **熟练动作、移动、操作**（尤其是需要技巧的动作）
+   - The pilot performed a difficult landing maneuver.
+      （飞行员完成了一次高难度降落动作。）
+2. **军事演习 / 战术调动**
+   - The troops carried out military maneuvers near the border.
+      （部队在边境附近进行了军事演习。）
+3. **策略、手段**（尤指带有技巧性或权谋意味的）
+   - His resignation was seen as a clever political maneuver.
+      （他的辞职被视为一种高明的政治手段。）
+
+**maneuver (v.)**
+
+1. **熟练/谨慎地移动、操纵**
+   - She maneuvered her car into the tight parking space.
+      （她小心地把车停进狭小的停车位。）
+2. **用策略/手段应对**
+   - He maneuvered his way into a better position.
+      （他巧妙地谋得了一个更好的职位。）
+
+
+
+
+
+ **Intact**
+
+**1. 词义解释**
+
+- **完好无损的，未受损伤的** 这个词的核心意思就是“完整如初”，强调某物在经历了可能造成损害的事件后，依然保持着原来的状态，没有缺失或损坏的部分。
+  - 例句1: Despite the earthquake, the old church remained **intact**. (尽管发生了地震，那座古老的教堂依然完好无损。)
+  - 例句2: He was lucky to emerge from the car crash with his limbs **intact**. (他很幸运，从车祸中出来时四肢健全。)
+- **（声誉、原则等）未受损害的，完整的** 引申义，用于描述抽象事物，如名誉、尊严、传统等没有受到负面影响。
+  - 例句1: After the scandal, it was difficult for him to keep his reputation **intact**. (丑闻过后，他很难保住自己的声誉。)
+  - 例句2: She managed to keep her principles **intact** despite the pressure to compromise. (尽管面临妥协的压力，她还是设法坚守了自己的原则。)
+- **俚语/流行用法**: 在口语中，有时会用 `come out intact` 或 `get through something intact` 来轻松地描述“成功度过难关而未受影响”。例如：*It was a crazy week at work, but I managed to get through it **intact**.* (工作上这是疯狂的一周，但我总算安然度过了。)
+
+**2. 词源解析**
+
+- **词根词缀分析**: `intact` 由两部分组成：`in-` + `-tact`。
+  - 前缀 `in-` 在这里表示否定，意为 “不，无” (not)。
+  - 词根 `-tact` 来自拉丁语 `tangere` 的过去分词 `tactus`，意为 “触摸” (to touch)。
+- **词源义**: 字面意思就是 "not touched" (未被触碰过的)。一件东西如果没有被（负面地）触碰过或影响过，那它自然就是“完整无缺的”。
+
+
+
+liquefy 液化
+
+enzyme 酶
+
+saliva 托业
+
+
+
+**recital**
+
+**1. 词义解释**
+
+- \1) 独奏会，独唱会；（个人或小组）表演会
+
+  这是 recital 最核心、最常见的含义，通常指由一两位表演者（如一位独奏家和一位钢琴伴奏）进行的音乐或舞蹈表演，重点是展示个人技艺。
+
+  - 例句1: My daughter is nervous because she has her first piano **recital** this weekend. (我女儿很紧张，因为她这个周末要举行她平生第一次钢琴独奏会。)
+  - 例句2: The famous soprano gave a brilliant **recital** of songs by Schubert. (那位著名的女高音歌唱家举办了一场精彩的舒伯特歌曲独唱会。)
+
+- \2) (事实、事件等的) 详细叙述，列举，复述
+
+  这是一个更正式的用法，指对一系列事实或事件的详细、有时甚至是冗长乏味的口头或书面陈述。
+
+  - 例句1: He gave us a long **recital** of all the problems he had faced at the new job. (他向我们详细述说了他在新工作中遇到的所有问题。)
+  - 例句2: The witness's **recital** of the events was clear and consistent. (证人对事件的复述清晰且前后一致。)
+
+- **流行语用法**: 在美国文化中，“dance recital”（舞蹈汇报表演）是一个非常常见的概念，特指由舞蹈学校的学生（通常是孩子）为家长和朋友们举行的年度表演。在很多电影和电视剧中，这是一个展现家庭生活和孩子成长烦恼的典型场景。
+
+**2. 词源解析**
+
+- **词根词缀分析**: `recital` 是由动词 `recite` 加上名词后缀 `-al` 构成的。
+  - 动词 `recite` 源自拉丁语 `recitare`，由 `re-` (“再次”) 和 `citare` (“召唤，引用”) 组成。其本意是“再次大声唤出”，引申为“朗诵，背诵”。
+  - 名词后缀 `-al` 通常加在动词后面，表示“...的行为或过程” (the act of)。
+- **词源义**: `recital` 的字面意思就是“背诵或复述的行为”，这直接关联到它的两个主要词义：既可以指公开“演绎”（表演）音乐或诗歌，也可以指详细“复述”一件事。
+
+**3. 常见衍生词**
+
+- **动词 (Verb)**:
+  - `recite` (v.) - 背诵，朗诵；列举。
+- **名词 (Noun)**:
+  - `recitation` (n.) - （通常指在课堂上）背诵，朗诵的行为；所背诵的诗歌或文章。
+
+**注**: `recital` 和 `recitation` 的区别：`recital` 强调的是一场公开的**表演活动或音乐会**。而 `recitation` 更侧重于**背诵这个动作本身**，场景多为课堂或非正式场合。
+
+**4. 常用短语词组用法**
+
+- **a piano/violin/dance/poetry recital**
+  - **用法**: 钢琴/小提琴/舞蹈/诗歌独奏（演）会。这是最常见的搭配，用来明确表演的类型。
+  - **例句**: We have tickets for a violin **recital** at Carnegie Hall. (我们有卡内基音乐厅一场小提琴独奏会的票。)
+- **give a recital**
+  - **用法**: 举办一场独奏/独唱会。
+  - **例句**: The young pianist will **give her debut recital** next month. (那位年轻的钢琴家下个月将举行她的首场独奏音乐会。)
+- **a long/tedious recital of something**
+  - **用法**: 对某事的一番冗长/乏味的叙述。常用来形容抱怨、借口或一长串的事件。
+  - **例句**: I had to listen to a tedious **recital of his financial troubles**. (我不得不听他喋喋不休地诉说他的财务困境。)
+
+
+
+| 词汇            | 主要语义                                           | 语气/情感                                        | 典型使用场景                         | 例句                                             |
+| --------------- | -------------------------------------------------- | ------------------------------------------------ | ------------------------------------ | ------------------------------------------------ |
+| **recital**     | **个人表演会**；通常指单人或双人的，侧重技巧展示。 | 偏正式，艺术性，有时带学术或教学性质             | 钢琴独奏会，学生舞蹈表演，诗歌朗诵会 | She is preparing for her graduation **recital**. |
+| **concert**     | **音乐会**；通常指乐队、乐团或多位音乐家参与的。   | 规模感强，可以是正式的（古典）或非正式的（摇滚） | 交响乐音乐会，摇滚音乐会，合唱音乐会 | We went to a rock **concert** last night.        |
+| **performance** | **表演，演出**；最宽泛的词，指任何形式的公开表演。 | 中性，技术性词汇                                 | 戏剧表演，魔术表演，或泛指任何演出   | The actor's **performance** was incredible.      |
+| **show**        | **秀，节目**；娱乐性强，常包含多种元素或环节。     | 偏口语，商业化，强调娱乐和观赏性                 | 百老汇秀，电视脱口秀，时装秀，魔术秀 | Did you see the new magic **show** on TV?        |
+
+
+
+priest 牧师
+
+intercourse 现代英语一般指xj
+
+suitor 追求者
+
+scheme 计划，诡计 （中性偏贬）
+
+sleeve 袖子
+
+| 词           | 含义                    | 场景                 | 语气       |
+| ------------ | ----------------------- | -------------------- | ---------- |
+| **scheme**   | 计划/体系；阴谋         | 政策、项目、职场阴谋 | 正式/贬义  |
+| **plan**     | 计划、安排              | 日常、工作           | 中性       |
+| **plot**     | 阴谋、密谋（文学/历史） | 阴谋故事、犯罪       | 贬义、文学 |
+| **strategy** | 战略、总体计划          | 军事、商业           | 正式、中性 |
+
+
+
+
+
+ocular migraine 视觉型偏头痛
+
+**与眼睛相关的 / 视觉的**（医学、正式或技术用语）
+
+- **ocular pain** = 眼痛
+- **ocular nerve** = 视神经
+- **ocular examination** = 眼科检查
+
+
+
+
+
+licorice 甘草
+
+spoiler alert 剧透警告
+
+Recital  /rɪˈsaɪtəl/。独奏会
+
+Duets /ˈduːəts/  二重奏
