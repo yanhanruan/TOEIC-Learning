@@ -72,7 +72,7 @@ oppression：
   - Economic oppression remains a major challenge in many countries.
 - persecution：更专指因宗教、种族、政治信仰遭受的残酷对待。
   - They sought asylum to escape political persecution.
-- tyranny：常用于描述独裁统治或极端不公的政治环境。
+  - tyranny：常用于描述独裁统治或极端不公的政治环境。
   - The revolution ended decades of tyranny.
 
 
@@ -727,15 +727,14 @@ plumber  /ˈplʌmər/ 水管工
 
 
 
-acoustics 声学
+acoustics 声学 /əˈkuːstɪks/
 
-| 词汇      | 强调点                 | 用法场景               | 示例                                  |
-| --------- | ---------------------- | ---------------------- | ------------------------------------- |
-| acoustics | 声音传播、空间影响     | 物理声学、建筑、音乐厅 | The acoustics of the hall are great.  |
-| resonance | 声音共鸣、延长或增强   | 乐器、声音效果         | The piano’s resonance fills the room. |
-| timbre    | 音色特质、声音“颜色”   | 乐器、歌声             | His voice has a unique timbre.        |
-| pitch     | 音高                   | 音乐、声乐             | She hit the pitch perfectly.          |
-| tone      | 声音整体感觉/音调/语气 | 音乐、语言、写作       | Adjust the tone of your guitar.       |
+| 词汇      | 强调点                 | 用法场景               | 示例                                 |
+| --------- | ---------------------- | ---------------------- | ------------------------------------ |
+| acoustics | 声音传播、空间影响     | 物理声学、建筑、音乐厅 | The acoustics of the hall are great. |
+| timbre    | 音色特质、声音“颜色”   | 乐器、歌声             | His voice has a unique timbre.       |
+| pitch     | 音高                   | 音乐、声乐             | She hit the pitch perfectly.         |
+| tone      | 声音整体感觉/音调/语气 | 音乐、语言、写作       | Adjust the tone of your guitar.      |
 
 echo 回声
 
@@ -921,7 +920,7 @@ saliva 托业
 
 
 
-**recital**
+**recital **  /rɪˈsaɪtəl/
 
 **1. 词义解释**
 
@@ -1020,3 +1019,267 @@ spoiler alert 剧透警告
 Recital  /rɪˈsaɪtəl/。独奏会
 
 Duets /ˈduːəts/  二重奏
+
+
+
+**“any unused portion thereof”**  其中任何未使用的部分 
+
+**thereof** → 副词性代词（archaic/正式用法），意思是“of that / of it”，即“其中的”。它是介词 **of** 的一种正式合并形式。
+
+
+
+**mechanism** 
+
+------
+
+**1. 词义解释**
+
+1. **机制；机理；运作方式**（指事物运作的原理或过程）
+
+- The mechanism of the human brain is still not fully understood.
+   （人脑的运作机制至今尚未完全被理解。）
+- The mechanism by which plants convert sunlight into energy is called photosynthesis.
+   （植物将阳光转化为能量的机制叫光合作用。）
+
+1. **机械装置；机构**（指由零件组成的机械系统）
+
+- The clock has a delicate mechanism inside.
+   （钟表里面有精密的机械装置。）
+- The locking mechanism of the door is broken.
+   （门的锁定机构坏了。）
+
+1. **办法；手段；程序**（比喻用法，表示实现目标的方式）
+
+- The company introduced a new mechanism for handling customer complaints.
+   （公司引入了一种新机制来处理客户投诉。）
+- Democracy provides a mechanism for resolving conflicts peacefully.
+   （民主提供了一种和平解决冲突的机制。）
+
+------
+
+**2. 词源解析**
+
+- 来自 **希腊语 mēkhanē**（机器、装置）
+- 后缀 **-ism** → 表示体系、状态或过程
+   👉 mechanism 最初指“机械装置”，后来引申为“运作的方式或原理”。
+
+------
+
+**3. 常见衍生词**
+
+- **mechanical** (adj.) 机械的；呆板的
+- **mechanics** (n.) 力学；机械学
+- **mechanization** (n.) 机械化
+- **mechanize** (v.) 使机械化
+- **mechanistic** (adj.) 机械论的；机械化的
+
+------
+
+**4. 常用短语 / 搭配**
+
+- **defense mechanism** 防御机制（心理学术语）
+  - Humor can be used as a defense mechanism.
+     （幽默可以作为一种防御机制。）
+- **coping mechanism** 应对机制
+  - Exercise is her coping mechanism for stress.
+     （锻炼是她缓解压力的应对机制。）
+- **market mechanism** 市场机制
+  - The market mechanism regulates supply and demand.
+     （市场机制调节供需。）
+- **feedback mechanism** 反馈机制
+  - Negative feedback is a common biological mechanism.
+     （负反馈是一种常见的生物机制。）
+
+------
+
+**5. 近义词对比**
+
+1. **structure vs. mechanism**
+
+- structure 强调“结构、组成方式”，偏静态。
+- mechanism 强调“运作原理、运作方式”，偏动态。
+   例：
+- The structure of DNA is a double helix.
+   （DNA 的结构是双螺旋。）
+- The mechanism of DNA replication is highly precise.
+   （DNA 复制的机制非常精确。）
+
+1. **system vs. mechanism**
+
+- system 是“整体体系”，范围更大。
+- mechanism 是系统中的“具体运作原理”。
+   例：
+- The legal system protects citizens' rights.
+   （法律体系保护公民权利。）
+- The mechanism of law enforcement varies by country.
+   （执法机制因国家而异。）
+
+1. **device vs. mechanism**
+
+- device 指“具体的装置、设备”。
+- mechanism 指“装置的内部结构或运作方式”。
+   例：
+- He invented a new device for cleaning floors.
+   （他发明了一种清洁地板的新设备。）
+- The mechanism inside the device is quite complex.
+   （设备内部的机构非常复杂。）
+
+
+
+
+
+“**kibble**” 这个词常见的意思有几个，取决于语境：
+
+1. **宠物食品（最常见用法）**
+    在英文里，*kibble* 通常指 **干粮颗粒状的宠物饲料**，尤其是狗粮和猫粮。它是通过把肉类、副产品、谷物、蔬菜等混合物挤压、烘干后做成小颗粒。
+    👉 例如：*dog kibble* = 狗粮颗粒。
+2. **小块食物**（一般意义）
+    在更广泛的英语用法里，*kibble* 可以泛指被打碎或切成小颗粒的食物。比如说：*kibbled corn* 就是碾碎的玉米。
+
+
+
+stocks plummeted 股票暴跌
+
+
+
+**evade** 
+
+------
+
+📖 详细解释
+
+1. **躲避（身体上的）**
+   - 通过动作来避开某人或某物。
+   - 例：*The suspect evaded the police by hiding in a warehouse.*
+      （嫌疑人躲进仓库以逃避警方。）
+2. **逃避（责任、法律、问题）**
+   - 故意避免承担义务、回答问题或遵守规则。
+   - 例：*He tried to evade taxes.*
+      （他试图逃税。）
+3. **闪烁其词、回避回答**
+   - 不直接回应，故意避开问题。
+   - 例：*She evaded the reporter’s questions.*
+      （她回避了记者的问题。）
+
+🗝️ 同义词
+
+- **avoid**（避免）
+- **dodge**（闪躲，偏口语）
+- **escape**（逃脱）
+
+⚠️ 区别：
+
+- *avoid* 强调“主动不接触”。
+- *evade* 更偏向“耍小聪明地逃避、不正当地回避”。
+
+
+
+**photo op** 是 **photo opportunity** 的缩写
+
+**政治 / 名人场景**
+
+- 常指政治人物、名人 **特意摆拍的机会**，用来制造好形象。
+- 例：*The president visited the school mainly for a photo op.*
+   （总统去学校主要是为了制造一个拍照机会。）
+
+**一般场景**
+
+- 也可以泛指任何不错的拍照机会。
+- 例：*The sunset over the mountains was a perfect photo op.*
+   （山上的日落是个绝佳的拍照机会。）
+
+
+
+immaculate
+
+1. **洁净无暇的**
+   - 没有一点污渍或瑕疵。
+   - 例：*Her room was immaculate.*
+      （她的房间一尘不染。）
+2. **完美的、无错误的**
+   - 用来形容表现、计划、逻辑等。
+   - 例：*He gave an immaculate performance.*
+      （他呈现了一场完美无瑕的表演。）
+3. **宗教含义**（天主教/基督教语境）
+   - 特指“圣母无原罪怀孕”（the Immaculate Conception）。
+   - 在这种语境下是一个专有宗教用语。
+
+
+
+smooch 比kiss更亲昵
+
+Menthol = 薄荷脑 / 清凉剂
+
+
+
+orphan 孤儿
+
+orphanage 孤儿院
+
+lacrosse 曲棍球
+
+**take aim at hypocrisy** = **批评或揭露虚伪行为**
+
+minion 小黄人
+
+
+
+“I realize bringing that up suggests otherwise”   “我意识到，说起那个反而表明了相反的意思。” 此地无银三百两
+
+**I realize** → “我意识到 / 我明白”
+
+**bringing that up** → “提到那个 / 提起那件事”
+
+**suggests otherwise** → “表明相反的情况 / 说明不是那样”
+
+**otherwise** 在这里 = “与之前说法相反”
+
+
+
+van 货车
+
+**drift** 本意是漂流，但在语言里也可指“思路、意图、趋势”。
+
+**catch my drift** = “抓住我的意思 / 明白我的暗示”。
+
+
+
+hyena 鬣狗
+
+scotch 苏格兰威士忌
+
+
+
+pit
+
+**地面或物体上的洞**
+
+- 通常较 **大而深**，比 **hole** 更显著
+- 例：*There’s a pit in the road.*
+   （路上有一个坑。）
+
+**果核、种子**
+
+- 如 *cherry pit*（樱桃核）、*olive pit*（橄榄核）
+- 来源比喻意义上和“洞”类似：果核在果肉里形成一个空隙
+
+**矿坑或采石场**
+
+- 如 *coal pit*（煤矿）、*quarry pit*（采石坑）
+
+| 单词              | 含义           | 特点/区别                                         |
+| ----------------- | -------------- | ------------------------------------------------- |
+| **pit**           | 坑、大洞、果核 | 通常大、深、显眼；也可指果核或矿坑                |
+| **hole**          | 洞、孔         | 较通用，可大可小，不强调深度；任何洞都可以叫 hole |
+| **crater**        | 火山口、撞击坑 | 通常自然形成，圆形凹陷，面积大                    |
+| **gully / ditch** | 沟、壕沟       | 线状，通常沿地面流向形成，常排水用                |
+| **pothole**       | 路面坑洞       | 特指道路或硬地表面的坑，通常因磨损或水侵形成      |
+| **cavity**        | 腔、洞穴       | 偏内部空间，医学或牙科中常用（如 tooth cavity）   |
+
+
+
+gorilla 大猩猩
+
+chimp 黑猩猩
+
+disturbing 哈人 心理上不安、困扰，常指思想、画面、事件
